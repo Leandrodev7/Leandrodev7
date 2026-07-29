@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Leandro Massuquetto 👋
 
-<!--
-**Leandrodev7/Leandrodev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, criando projetos práticos com tecnologia.
 
-Here are some ideas to get you started:
+🚀 Tecnologias em estudo:
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Foco em projetos práticos, código bem estruturado e evolução contínua.
+
+⚽ Projeto em destaque:
+- Campeonato Profissional — sistema de gerenciamento de campeonato de futebol.
+
+📚 Sempre aprendendo e evoluindo na programação.
