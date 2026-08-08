@@ -42,3 +42,4 @@ Próximo passo: Python.
 
 - 📂 Meus Projetos: "GitHub" (https://github.com/leandrodev7)
 - ⚽ Campeonato Profissional: "Ver Online" (https://leandrodev7.github.io/Campeonato-Profissional-Web/)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
