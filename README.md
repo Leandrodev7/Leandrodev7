@@ -1,4 +1,4 @@
-# Olá, eu sou Leandro Massuquetto 👋
+# Olá, Eu sou Leandro Massuquetto 👋
 
 💻 Desenvolvedor em formação, criando projetos práticos com tecnologia.
 
