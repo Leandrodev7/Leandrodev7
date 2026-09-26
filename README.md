@@ -35,16 +35,15 @@ Próximo passo: Python.
 
 📊 Minhas Estatísticas
 
-"Estatísticas" (https://github-readme-stats.vercel.app/api?username=leandrodev7&show_icons=true&theme=tokyonight)
+![Estatísticas] (https://github-readme-stats.vercel.app/api?username=leandrodev7&show_icons=true&theme=tokyonight)
 
 📈 Linguagens mais usadas
 
-"Linguagens" (https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodev7&layout=compact&theme=tokyonight)
+![Linguagens] (https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodev7&layout=compact&theme=tokyonight)
 
 ---
 
 🔗 Onde me encontrar
 
-- 📂 Meus Projetos: "GitHub" (https://github.com/leandrodev7)
-- ⚽ Campeonato Profissional: "Ver Online" (https://leandrodev7.github.io/Campeonato-Profissional-Web/)
-
+- 📂 Meus Projetos: [GitHub](https://github.com/leandrodev7)
+- ⚽ Campeonato Profissional: [Ver Online](https://leandrodev7.github.io/Campeonato-Profissional-Web/)
