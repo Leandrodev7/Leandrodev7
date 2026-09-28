@@ -19,7 +19,6 @@ Próximo passo: Python.
 
 ---
 
-🛠️ Tecnologias
 
 ### 🛠️ Tecnologias
 
