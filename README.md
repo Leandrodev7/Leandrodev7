@@ -46,4 +46,4 @@ Próximo passo: Python.
 🔗 Onde me encontrar
 
 - 📂 Meus Projetos: [GitHub](https://github.com/leandrodev7)
-- ⚽ Campeonato Profissional: [Ver Online](https://leandrodev7.github.io/Campeonato-Profissional-Web/)
+- ⚽ Campeonato Profissional: https://leandrodev7.github.io/Campeonato-Profissional-V3/
