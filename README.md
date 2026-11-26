@@ -1,80 +1,63 @@
-# 👋 Olá! Eu sou Leandro
+Leandro | Desenvolvedor em formação 👋
 
-💻 **Desenvolvedor em construção**
+Desenvolvo projetos próprios com foco em aplicações web, organização de dados e soluções para problemas do cotidiano.
 
-Estudando HTML, CSS e JavaScript e desenvolvendo projetos próprios para transformar ideias em código.
+Estou sempre estudando e colocando novos conhecimentos em prática por meio de projetos reais.
 
----
+🛠️ Tecnologias e ferramentas
 
-## ⚽ Projeto em Destaque
+- HTML5
+- CSS3
+- JavaScript
+- Supabase
+- Cloudflare Workers
+- Git e GitHub
 
-### 🏆 Campeonato Profissional
+🚀 Projetos
 
-Sistema web de gerenciamento de campeonatos de futebol.
+💰 Massu | Inteligência Financeira
 
-- Pontos corridos e mata-mata
-- Classificação automática
-- Artilharia e estatísticas
-- Backup e importação de dados
-- Desenvolvido com HTML5, CSS3 e JavaScript puro
+Aplicação de gestão financeira e investimentos, com autenticação de usuários, banco de dados e controle individual de informações.
 
-🔗 [Acessar o Campeonato Profissional](https://campeonato-profissional-v4.leandromassuquetto.workers.dev/)
+🚛 Paraná Log Express
 
----
+Sistema de apoio à gestão de entregas e transporte, com cálculo de fretes, combustível, pedágios, despesas, lucro e margem.
 
-## 🚀 Outros Projetos
+⚽ Campeonato Profissional
 
-### 💰 Vértice Inteligência Financeira
+Plataforma para gerenciamento de campeonatos de futebol, com cadastro de equipes, classificação, rodadas, mata-mata, artilheiros e temporadas.
 
-Aplicação para organizar investimentos, com cadastro e exclusão de ativos, autenticação de usuários e integração com Supabase.
+🚘 Macchina Monitor
 
-🔗 [Acessar o Vértice Inteligência Financeira](https://vertice-inteligencia-financeira.leandromassuquetto.workers.dev/)
+Simulador interativo de painel automotivo, com conta-giros e indicadores que respondem à aceleração do motor.
 
-### 🚚 Paraná Log Express
+🪚 ROMA Marcenaria
 
-Calculadora de fretes e entregas, com recursos para controle de despesas e cálculo de lucro e margem.
+Projeto web para apresentação de serviços e soluções do setor de marcenaria.
 
-🔗 [Acessar o Paraná Log Express](https://parana-log-express.leandromassuquetto.workers.dev/)
+📚 Estudos e desenvolvimento
 
-### 🏎️ Máquina Monitor
+- Lógica de programação
+- Desenvolvimento web
+- Integração com bancos de dados
+- Segurança de aplicações
+- Organização e manutenção de código
+- Ferramentas de inteligência artificial aplicadas ao desenvolvimento
 
-Simulador interativo de painel automotivo, com conta-giros e indicadores que reagem à aceleração do motor.
+📫 Onde me encontrar
 
-🔗 [Acessar o Máquina Monitor](https://macchina-monitor.leandromassuquetto.workers.dev/)
+"GitHub" (https://github.com/Leandrodev7)
 
-### 🪵 ROMA Marcenaria
+"Massu | Inteligência Financeira" (https://massu-inteligencia-financeira.leandromassuquetto.workers.dev/)
 
-Site demonstrativo para uma empresa de móveis planejados, apresentando serviços de marcenaria e móveis sob medida.
+"Paraná Log Express" (https://parana-log-express.leandromassuquetto.workers.dev/)
 
-🔗 [Acessar a ROMA Marcenaria](https://roma-marcenaria.leandromassuquetto.workers.dev/)
+"Campeonato Profissional" (https://campeonato-profissional-v4.leandromassuquetto.workers.dev/)
 
----
+"Macchina Monitor" (https://macchina-monitor.leandromassuquetto.workers.dev/)
 
-## 🛠️ Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+"ROMA Marcenaria" (https://roma-marcenaria.leandromassuquetto.workers.dev/)
 
 ---
 
-## 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats-phi-three-94.vercel.app/api?username=leandrodev7&show_icons=true&theme=tokyonight)
-
-![Linguagens mais utilizadas](https://github-readme-stats-phi-three-94.vercel.app/api/top-langs/?username=leandrodev7&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Onde me encontrar
-
-- [Meu GitHub](https://github.com/leandrodev7)
-- [Campeonato Profissional](https://campeonato-profissional-v4.leandromassuquetto.workers.dev/)
-- [Vértice Inteligência Financeira](https://vertice-inteligencia-financeira.leandromassuquetto.workers.dev/)
-- [Paraná Log Express](https://parana-log-express.leandromassuquetto.workers.dev/)
-- [Máquina Monitor](https://macchina-monitor.leandromassuquetto.workers.dev/)
-- [ROMA Marcenaria](https://roma-marcenaria.leandromassuquetto.workers.dev/)
+Aprendendo, desenvolvendo e construindo soluções na prática.
